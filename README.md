@@ -48,19 +48,6 @@ Também sou **vibe coder**: eu explico o problema, a IA escreve o código e eu c
 
 ### 🏆 FASE 4 — Fases desbloqueadas (projetos)
 
-**🧾 [Painel Gestão Fiscal](https://github.com/guilhermedevbh/gestaofiscal)** — sistema com IA integrada que agiliza o processamento diário de notas fiscais e tributos:
-- Consulta de CNPJ já adaptada ao novo **CNPJ alfanumérico**
-- Consulta de TES, Inscrição Estadual, CNAE, NCM, CFOP e NBS
-- Relatórios de notas fiscais direto do Portal Nacional
-- Consulta de alíquotas de ISS · Recuperador de créditos de PIS/COFINS
-- Módulos de ICMS/DIFAL e ICMS-ST (CEST)
-
-**🔍 Auditor Fiscal Inteligente** — lê o XML de NF-e e NFS-e, aponta divergências no documento fiscal e indica os pontos de atenção para a análise.
-
-**📥 [Captador de Nota Fiscal](https://github.com/guilhermedevbh/Captador-de-Nota-Fiscal)** — captura de documentos fiscais eletrônicos (TypeScript).
-
-**📊 [ContTech ERP](https://github.com/guilhermedevbh/ContTerch-ERP)** — ERP para contadores (fiscal, contábil e trabalhista) · [landing page](https://github.com/guilhermedevbh/conttecherplanding).
-
 **🕹️ [Portfólio em forma de jogo](https://minhapagina-six.vercel.app/)** — feito do zero com vibe coding: personagem com pulo duplo e soco, itens para coletar, bugs para derrotar e notebook 3D que gira com a rolagem.
 
 ### 🎓 FASE 5 — Certificações
